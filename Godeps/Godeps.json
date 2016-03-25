@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/joaoevangelista/lumos",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v60",
+	"Deps": [
+		{
+			"ImportPath": "github.com/skratchdot/open-golang/open",
+			"Rev": "75fb7ed4208cf72d323d7d02fd1a5964a7a9073c"
+		}
+	]
+}
