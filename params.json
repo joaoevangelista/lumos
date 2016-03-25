@@ -1,0 +1,6 @@
+{
+  "name": "Lumos",
+  "tagline": "Open a search from command line ",
+  "body": "# Lumos\r\n\r\nYour magic to light you wisdom by delegating to your search engine of course\r\n\r\n\r\nBuilding\r\n---\r\n\r\n - Go\r\n - [Godep]( https://github.com/tools/godep)\r\n\r\n Dependencies are provided on `vendor/` directory, if you whish use `godep get`\r\n to install them for you.\r\n\r\nRunning\r\n---\r\n\r\nUsing google as default engine\r\n ```\r\n lumos -q golang\r\n ```\r\n\r\nUsing multi words on query\r\n```\r\nlumos -q \"golang is awesome\"\r\n```\r\n\r\n Custom engine (Support for: DuckduckGo, Bing and Google)\r\n ```\r\n lumos -p duck -q golang\r\n ```\r\n\r\n*Nox*\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
