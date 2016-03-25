@@ -18,8 +18,12 @@ Running
 Using google as default engine
  ```
  lumos -q golang
-
  ```
+
+Using multi words on query
+```
+lumos -q "golang is awesome"
+```
 
  Custom engine (Support for: DuckduckGo, Bing and Google)
  ```
