@@ -1,6 +1,6 @@
 # Lumos
 
-Your magic to light you wisdom by delegating to your search engine of course
+Your magic to light your wisdom by delegating to your search engine, of course
 
 
 Building
